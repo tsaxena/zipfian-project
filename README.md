@@ -12,14 +12,15 @@ Project work at Zipfian
       * [x] Finish the community Detection Algorithm 
       * [x] Explore more ego networks
 
-#### Thursday
-- [ ] : Start work on the map-reduce algorithm
-      * [x] Work on Community Detection Algorithm 
-      * [x] Start work on Graph X
-      * [x] 
-    
+
 
 ##### Friday
 - [ ] 
+    * Clean up documentation for the centrality and clean up 
+    * Perform heirarchical clustering instead to girven because of time constraint
+    * Explore more ego networks of eigen_vector centrality
+    * Come up with the klout scoring based on pagerank
+    * Try to label the clusters.
+    
 - [ ] 
 
